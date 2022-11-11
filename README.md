@@ -18,7 +18,7 @@ SHA-256：c26127e5c49b315be15eef26d568a90ccde33c6c51e5d995a247a5c3e71c3f58
 
 ## 3. 安装MCListbox Designer
 
-下载Release中的`clan_studio_lib_cstk_mclistbox_designer-1.0.0.1.vip`，并双击通过VIPM进行安装。（需安装VIPM 2014或以上版本）
+下载Release中的`clan_studio_lib_cstk_mclistbox_designer-1.0.0.1.vip`，并双击通过VIPM进行安装。（需安装VIPM 2017或以上版本）
 
 ## 4. 使用MCListbox Designer
 
